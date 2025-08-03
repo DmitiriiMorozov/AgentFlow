@@ -1,0 +1,54 @@
+[
+    {
+        "text": "Привет",
+        "intent": "GREETING"
+    },
+    {
+        "text": "Здравствуй",
+        "intent": "GREETING"
+    },
+    {
+        "text": "Добрый день",
+        "intent": "GREETING"
+    },
+    {
+        "text": "Добавь задачу купить молоко",
+        "intent": "ADD_TASK"
+    },
+    {
+        "text": "Нужно сделать проект по работе",
+        "intent": "ADD_TASK"
+    },
+    {
+        "text": "Запиши мне в список дел сходить в спортзал",
+        "intent": "ADD_TASK"
+    },
+    {
+        "text": "Создай напоминание позвонить маме",
+        "intent": "ADD_TASK"
+    },
+    {
+        "text": "Покажи что у меня в списке",
+        "intent": "LIST_TASKS"
+    },
+    {
+        "text": "Какие у меня задачи?",
+        "intent": "LIST_TASKS"
+    },
+    {
+        "text": "Выведи список дел",
+        "intent": "LIST_TASKS"
+    },
+    {
+        "text": "Спасибо",
+        "intent": "THANKS"
+    },
+    {
+        "text": "Сколько времени?",
+        "intent": "UNKNOWN"
+    },
+    {
+        "text": "Какая погода",
+        "intent": "UNKNOWN"
+    }
+]
